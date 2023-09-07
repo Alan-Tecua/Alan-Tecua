@@ -6,7 +6,7 @@ I am a former industrial designer, living in Japan and now turning my career int
 
 For that reason I took on learning coding and mixing my cultivated skills as a designer. I can build codes with working features, responsive websites and take on projects as a product manager, being there to serve my team as a TL and work together in the completion of a product.
 
-Lets connect in <a href="linkedin.com/in/alan-tecuapetla">LinkedIn</a> 
+Lets connect in <a href="https://www.linkedin.com/in/alan-tecuapetla/">LinkedIn</a> 
 <!--
 **Alan-Tecua/Alan-Tecua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
