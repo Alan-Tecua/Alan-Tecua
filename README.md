@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! I'm Alan 👋
+
+![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1517d62c-7c2f-4244-b731-eb07c83e3a91)
+
+
 
 <!--
 **Alan-Tecua/Alan-Tecua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
