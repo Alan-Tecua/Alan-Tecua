@@ -2,8 +2,11 @@
 
 ![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1517d62c-7c2f-4244-b731-eb07c83e3a91)
 
+I am a former industrial designer, living in Japan and now turning my career into that of a full-stack web developer. 
 
+For that reason I took on learning coding and mixing my cultivated skills as a designer. I can build codes with working features, responsive websites and take on projects as a product manager, being there to serve my team as a TL and work together in the completion of a product.
 
+Lets connect in <a href="linkedin.com/in/alan-tecuapetla">LinkedIn</a> 
 <!--
 **Alan-Tecua/Alan-Tecua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
