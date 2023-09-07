@@ -4,7 +4,7 @@
 
 I am a former industrial designer, living in Japan and now turning my career into that of a full-stack web developer. 
 
-For that reason I took on learning coding and mixing my cultivated skills as a designer. I can build codes with working features, responsive websites and take on projects as a product manager, being there to serve my team as a TL and work together in the completion of a product.
+I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build codes with working features, responsive websites and take on projects as a product manager; being there to serve my team as a TL and work together in the completion of a product.
 
 Lets connect in <a href="https://www.linkedin.com/in/alan-tecuapetla/" rel="nofollow">LinkedIn</a> 
 <!--
