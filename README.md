@@ -11,6 +11,9 @@ Lets connect in <a href="https://www.linkedin.com/in/alan-tecuapetla/" rel="nofo
 ## Technical Skills
 ![GihubBanner skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/d593e906-d6a3-4293-9d40-d539d521d122)
 
+## Design Software Skills
+![GihubBanner Design skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ac0bbfa-6ec5-4d28-9b26-2861c3f673af)
+
 <!--
 **Alan-Tecua/Alan-Tecua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
