@@ -1,6 +1,6 @@
 ### Hello there! I'm Alan 👋
 
-![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1517d62c-7c2f-4244-b731-eb07c83e3a91)
+![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ad8e19c-24b5-43ef-90f6-9c0f2bd5800e)
 
 I am a former industrial designer, living in Japan and now turning my career into that of a full-stack web developer. 
 
