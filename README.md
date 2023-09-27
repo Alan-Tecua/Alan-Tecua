@@ -6,8 +6,10 @@ I am a former industrial designer, living in Japan and now turning my career int
 
 I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build codes with working features, responsive websites and take on projects as a product manager; being there to serve my team as a TL and work together in the completion of a product.
 
-Lets connect in <a href="https://www.linkedin.com/in/alan-tecuapetla/" rel="nofollow">LinkedIn</a> 
-Take a look to my <a href="https://alan-tecuapetla.com/" rel="nofollow">portfolio</a>
+<li>
+  <ul>Lets connect in <a href="https://www.linkedin.com/in/alan-tecuapetla/" rel="nofollow">LinkedIn</a> </ul>
+  <ul>Take a look to my <a href="https://alan-tecuapetla.com/" rel="nofollow">portfolio</a></ul>
+</li>
 
 ## Technical Skills
 ![GihubBanner skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/d593e906-d6a3-4293-9d40-d539d521d122)
