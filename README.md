@@ -12,7 +12,7 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
 </ul>
 
 ## Technical Skills
-![GihubBanner skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/d593e906-d6a3-4293-9d40-d539d521d122)
+![GihubBanner upd skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/e394243f-a119-4292-a55c-94ef972d0210)
 
 ## Design Software Skills
 ![GihubBanner Design skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ac0bbfa-6ec5-4d28-9b26-2861c3f673af)
