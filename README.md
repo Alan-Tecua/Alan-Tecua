@@ -1,6 +1,8 @@
 ### Hello there! I'm Alan 👋
 
-<img src="https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2" align="center" width="300">
+<div align="center">
+<img src="https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2" align="center" width="300">  
+</div>
 
 <h1 align="center">ALAN SANCHEZ TECUAPETLA
 <br>
