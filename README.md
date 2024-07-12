@@ -2,9 +2,9 @@
 
 ![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ad8e19c-24b5-43ef-90f6-9c0f2bd5800e)
 
-<h1 align="center">Alan Sanchez Tecuapetla
+<h1 align="center">ALAN SANCHEZ TECUAPETLA
 <br>
-Fullstack Web Develope
+Fullstack Web Developer
 </h1>
 
 I am a former industrial designer, living in Japan and now turning my career into a full-stack web developer. 
