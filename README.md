@@ -1,4 +1,8 @@
-![AST_outlineLogo](https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2)### Hello there! I'm Alan 👋
+### Hello there! I'm Alan 👋
+<div style="width: 300 px">
+       
+![AST_outlineLogo](https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2)
+</div>
 
 <h1 align="center">ALAN SANCHEZ TECUAPETLA
 <br>
