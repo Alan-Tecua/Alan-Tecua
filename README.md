@@ -2,6 +2,9 @@
 
 ![GihubBanner](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ad8e19c-24b5-43ef-90f6-9c0f2bd5800e)
 
+<h1>Alan Sanchez Tecuapetla</h1>
+<h2 style="color: #e20a48">Fullstack Web Developer</h2>
+
 I am a former industrial designer, living in Japan and now turning my career into a full-stack web developer. 
 
 I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build codes with working features, responsive websites and take on projects as a product manager; being there to serve my team as a TL and work together in the completion of a product.
