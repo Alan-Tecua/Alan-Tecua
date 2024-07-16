@@ -13,7 +13,7 @@ Fullstack Web Developer
 
 I am a former industrial designer, living in Japan and now turning my career into a full-stack web developer. 
 
-I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build codes with working features, responsive websites and take on projects as a product manager; being there to serve my team as a TL and work together in the completion of a product.
+I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build features, responsive websites, applications and take on projects as a product manager; being there to suppory my team as a TL and work together in the completion of a product is the type of developer I'm aiming to become.
 
 <ul>
   <li><a href="https://www.linkedin.com/in/alan-tecuapetla/" rel="nofollow">
