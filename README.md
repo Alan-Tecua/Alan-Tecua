@@ -40,6 +40,6 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" alt="Figma" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator" alt="Illustrator" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere" alt="Premiere" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere" style="max-width: 100%;">
 </p>
 
