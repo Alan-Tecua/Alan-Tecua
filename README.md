@@ -24,8 +24,9 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
 
 
 ## Technical Skills
-![GihubBanner upd skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/e394243f-a119-4292-a55c-94ef972d0210)
+<!-- ![GihubBanner upd skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/e394243f-a119-4292-a55c-94ef972d0210) --> 
+<img src="https://camo.githubusercontent.com/4672cdbf8d3d37f16af34b04ab939103cf811ec32c90ba1d4114064d968fca2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-333333?style=flat&amp;logo=typescript" style="max-width: 100%;">
 
 ## Design Software Skills
-![GihubBanner Design skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ac0bbfa-6ec5-4d28-9b26-2861c3f673af)
+<!-- ![GihubBanner Design skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ac0bbfa-6ec5-4d28-9b26-2861c3f673af) --> 
 
