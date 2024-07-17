@@ -36,7 +36,6 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
 
 ## Design Software Skills
 <!-- ![GihubBanner Design skills](https://github.com/Alan-Tecua/Alan-Tecua/assets/71210297/1ac0bbfa-6ec5-4d28-9b26-2861c3f673af) --> 
-https://img.shields.io/badge/-figma-333333?style=flat&logo=figma
 <p dir="auto">
   <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" alt="Figma" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator" alt="Illustrator" style="max-width: 100%;">
