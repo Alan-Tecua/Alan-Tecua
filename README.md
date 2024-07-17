@@ -39,7 +39,7 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
 https://img.shields.io/badge/-figma-333333?style=flat&logo=figma
 <p dir="auto">
   <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" alt="Figma" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-illustrator-333333?style=flat&logo=Illustrator" alt="Illustrator" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-photoshop-333333?style=flat&logo=Photoshop" alt="Photoshop" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator" alt="Illustrator" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop" alt="Photoshop" style="max-width: 100%;">
 </p>
 
