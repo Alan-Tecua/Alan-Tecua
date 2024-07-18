@@ -29,9 +29,9 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://camo.githubusercontent.com/4672cdbf8d3d37f16af34b04ab939103cf811ec32c90ba1d4114064d968fca2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-333333?style=flat&amp;logo=typescript" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby" alt="RubyOnrails" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html" alt="HTML" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css" alt="CSS" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-SCSS-333333?style=flat&logo=scss" alt="SCSS" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS" alt="CSS" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS" alt="SCSS" style="max-width: 100%;">
 </p>
 
 ## Design Software Skills
