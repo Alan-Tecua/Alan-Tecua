@@ -1,5 +1,4 @@
 <div align="center">
-<!-- <img src="https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2" align="center" width="300">   -->
 <img src="https://github.com/user-attachments/assets/f8e63ba6-2a39-4678-b204-1145418a5d93" align="center" width="300">   
 </div>
 
@@ -24,10 +23,11 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
 <p dir="auto">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="Javascript" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&amp;logo=typescript" alt="Typescript" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="Github" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby" alt="RubyOnrails" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3" alt="CSS" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=VUE" alt="Vue" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="Github" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby" alt="RubyOnrails" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS" alt="SCSS" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" style="max-width: 100%;">  
 </p>
