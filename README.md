@@ -44,6 +44,9 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere" style="max-width: 100%;">
 </p>
 
+## My Work commits
+![digitomenuCommits](https://github.com/user-attachments/assets/3429f68a-f25e-4c2f-a758-b8567891a96e)
+
 <!-- ### Hello there! I'm Alan 👋    <img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/4672cdbf8d3d37f16af34b04ab939103cf811ec32c90ba1d4114064d968fca2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-333333?style=flat&amp;logo=typescript" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/7533cf04f3aee7c09a42eec7cc35795091924e730e82893068eb0c1c58d2c5ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;">
