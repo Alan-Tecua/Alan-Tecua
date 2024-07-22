@@ -1,5 +1,3 @@
-### Hello there! I'm Alan 👋
-
 <div align="center">
 <!-- <img src="https://github.com/user-attachments/assets/72f96d15-ea4f-499b-ae5a-c092467cf2f2" align="center" width="300">   -->
 <img src="https://github.com/user-attachments/assets/f8e63ba6-2a39-4678-b204-1145418a5d93" align="center" width="300">   
@@ -45,3 +43,4 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere" style="max-width: 100%;">
 </p>
 
+<!-- ### Hello there! I'm Alan 👋 -->
