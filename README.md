@@ -26,11 +26,11 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3" alt="CSS" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS" alt="SCSS" style="max-width: 100%;">
-  <br>
   <img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js" alt="Vue.js" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=Nuxt.js" alt="Nuxt.js" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" style="max-width: 100%;"> 
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="Github" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&amp;logo=ubuntu" alt="Ubuntu" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby" alt="RubyOnrails" style="max-width: 100%;">
 
  
