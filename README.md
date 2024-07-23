@@ -46,7 +46,7 @@ I took on learning coding with Le Wagon in the Web development bootcamp and now,
   <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere" style="max-width: 100%;">
 </p>
 
-## My Work commits
+## My Work
 ![digitomenuCommits](https://github.com/user-attachments/assets/3429f68a-f25e-4c2f-a758-b8567891a96e)
 
 <!-- ### Hello there! I'm Alan 👋    <img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;">
