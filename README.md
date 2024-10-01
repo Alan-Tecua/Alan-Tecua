@@ -42,6 +42,7 @@ Being there to support my team as a TL and work together in the completion of a 
   <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator" alt="Illustrator" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere" style="max-width: 100%;">
+  <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?style=flat&label=Spanish&labelColor=Native&color=red">
 </p>
 
 ## My Work
