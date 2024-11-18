@@ -8,7 +8,7 @@
 Fullstack Web Developer
 </h1>
 
-I am a former industrial designer, living in Japan and now turning my career into a full-stack web developer. 
+Full-stack web developer living in Japan. 
 
 I took on learning coding with Le Wagon in the Web development bootcamp and now, mixing my skills as a designer I am able to build features, responsive websites, applications and take on projects as a product manager. 
 Being there to support my team as a TL and work together in the completion of a product is the type of developer I'm aiming to become.
