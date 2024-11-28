@@ -34,6 +34,7 @@ Being there to support my team as a TL and work together in the completion of a 
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="Github" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&amp;logo=ubuntu" alt="Ubuntu" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby" alt="RubyOnrails" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" style="max-width: 100%;">
 </p>
 
 ## Design Software Skills 
