@@ -26,6 +26,7 @@ Being there to support my team as a TL and work together in the completion of a 
   <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3" alt="CSS" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS" alt="SCSS" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" alt="PHP" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js" alt="Vue.js" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=Nuxt.js" alt="Nuxt.js" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=React" alt="React" style="max-width: 100%;">
